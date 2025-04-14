@@ -2,7 +2,7 @@
   "name": "brians-cursor-midnight-color-theme",
   "displayName": "Brian's Cursor Midnight Color Theme",
   "description": "My customized version of Cursor's Midnight dark theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "BrianTravis",
   "engines": {
     "vscode": "^1.99.0"
