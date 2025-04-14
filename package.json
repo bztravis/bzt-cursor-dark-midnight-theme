@@ -4,6 +4,9 @@
   "description": "My customized version of Cursor's Midnight dark theme",
   "version": "1.0.2",
   "publisher": "BrianTravis",
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
